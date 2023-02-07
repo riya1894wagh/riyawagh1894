@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @riyawagh...........
-- 👀 I’m interested in exploring new technology...........
+📖 Pursuing M.sc in computer science with applied mathematics @ SGSITS
 - 🌱 I’m currently learning data sciense........
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-
-<!---
-riyawagh1894/riyawagh1894 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
+  
