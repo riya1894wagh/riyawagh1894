@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riyawagh...........
-📖 Pursuing M.sc in computer science with applied mathematics @ SGSITS
+📖 
 - 🌱 I’m currently learning data sciense........
  
   
